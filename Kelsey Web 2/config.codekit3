@@ -19,26 +19,15 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/deploy/img/section 1/hero.png": {
-		"ft": 32768,
-		"iS": 572117,
+	"/deploy/img/section 1/hero.jpg": {
+		"ft": 16384,
+		"iS": 116739,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section 1/hero.png",
+		"oAP": "/deploy/img/section 1/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/deploy/img/section 1/Life on Film.png": {
-		"ft": 32768,
-		"iS": 7426,
-		"oA": 0,
-		"oAP": "/deploy/img/section 1/Life on Film.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/deploy/index.html": {
