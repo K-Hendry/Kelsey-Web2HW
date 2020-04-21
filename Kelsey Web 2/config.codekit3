@@ -19,89 +19,88 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/deploy/img/footer/logo.png": {
-		"ft": 32768,
-		"iS": 1358,
-		"oA": 0,
-		"oAP": "/deploy/img/footer/logo.png",
+	"/deploy/img/footer/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/deploy/img/footer/logo.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"plM": 52780316221407,
+		"prP": 0
 		},
-	"/deploy/img/section 1/hero.jpg": {
+	"/deploy/img/section-1/hero.jpg": {
 		"ft": 16384,
 		"iS": 116739,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section 1/hero.jpg",
+		"oAP": "/deploy/img/section-1/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/Section 2/left side.jpg": {
+	"/deploy/img/section-2/left-side.jpg": {
 		"ft": 16384,
 		"iS": 73065,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/Section 2/left side.jpg",
+		"oAP": "/deploy/img/section-2/left-side.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section 3/Step 1.jpg": {
+	"/deploy/img/section-3/Step-1.jpg": {
 		"ft": 16384,
 		"iS": 77147,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section 3/Step 1.jpg",
+		"oAP": "/deploy/img/section-3/Step-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section 4/gallery 1.jpg": {
+	"/deploy/img/section-4/gallery-1.jpg": {
 		"ft": 16384,
 		"iS": 121615,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section 4/gallery 1.jpg",
+		"oAP": "/deploy/img/section-4/gallery-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section 4/gallery 2.jpg": {
+	"/deploy/img/section-4/gallery-2.jpg": {
 		"ft": 16384,
 		"iS": 51251,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section 4/gallery 2.jpg",
+		"oAP": "/deploy/img/section-4/gallery-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section 4/gallery-3.jpg": {
+	"/deploy/img/section-4/gallery-3.jpg": {
 		"ft": 16384,
 		"iS": 41051,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section 4/gallery-3.jpg",
+		"oAP": "/deploy/img/section-4/gallery-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section 5/circle callout.jpg": {
+	"/deploy/img/section-5/circle-callout.jpg": {
 		"ft": 16384,
 		"iS": 34186,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section 5/circle callout.jpg",
+		"oAP": "/deploy/img/section-5/circle-callout.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
