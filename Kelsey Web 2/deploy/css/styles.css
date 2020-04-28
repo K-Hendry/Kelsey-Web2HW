@@ -364,12 +364,14 @@ textarea {
 #section-2 aside img {
   width: 100%; }
 
-#section-2 section-2-container {
+#section-2 #section-2-container {
   display: grid;
   grid-template-columns: 15px auto 15px;
-  grid-template-areas: ". section-2 ."; }
-  #section-2 section-2-container #section-2-text {
-    grid-area: section-2; }
+  grid-template-areas: ". section-2 .";
+  gap: 20px; }
+  #section-2 #section-2-container #section-2-text {
+    grid-area: section-2;
+    gap: 20px; }
 
 /* =============
     Section 3
@@ -380,13 +382,35 @@ textarea {
 #section-3 #section-3-container {
   display: grid;
   grid-template-columns: 15px auto 15px;
-  grid-template-areas: ". section-3 ."; }
+  grid-template-areas: ". section-3 .";
+  gap: 20px; }
   #section-3 #section-3-container #section-3-text {
-    grid-area: section-3; }
+    grid-area: section-3;
+    gap: 20px; }
 
 /* =============
     Section 4
 ============= */
+#section-4 {
+  display: grid;
+  grid-template-columns: 0px auto 0px;
+  grid-template-areas: ". section-4 ."; }
+  #section-4 ul {
+    grid-area: section-4;
+    display: grid;
+    gap: 20px; }
+    #section-4 ul li img {
+      width: 100%; }
+
 /* =============
     Section 5
 ============= */
+#section-5 aside img {
+  width: 100%; }
+
+#section-5 #section-5-container {
+  display: grid;
+  grid-template-columns: 15px auto 15px;
+  grid-template-areas: ". section-5 ."; }
+  #section-5 #section-5-container #section-5-text {
+    grid-area: section-5; }
