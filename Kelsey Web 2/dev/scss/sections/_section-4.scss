@@ -43,15 +43,26 @@
             @include md{
                 grid-area: g1;
             }
+
+            @include xl{
+                grid-area: g1;
+            }
         }
         #g2{
             @include md{
+                grid-area: g2;
+            }
+
+            @include xl{
                 grid-area: g2;
             }
           }
           
         #g3{
             @include md{
+                grid-area: g3;
+            }
+            @include xl{
                 grid-area: g3;
             }
         }
