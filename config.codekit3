@@ -69,7 +69,7 @@
 		"oAP": "/Kelsey Web 2/Assets/markus-spiske-utS4a_yYQ_A-unsplash.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/Kelsey Web 2/Assets/robert-shunev-mS1nlYbq1kA-unsplash.jpg": {
@@ -155,12 +155,12 @@
 		"oAP": "/Kelsey Web 2/deploy/img/section-4/gallery-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/Kelsey Web 2/deploy/img/section-4/gallery-2.jpg": {
 		"ft": 16384,
-		"iS": 51251,
+		"iS": 74432,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/Kelsey Web 2/deploy/img/section-4/gallery-2.jpg",
@@ -177,7 +177,7 @@
 		"oAP": "/Kelsey Web 2/deploy/img/section-4/gallery-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/Kelsey Web 2/deploy/img/section-5/circle-callout.jpg": {

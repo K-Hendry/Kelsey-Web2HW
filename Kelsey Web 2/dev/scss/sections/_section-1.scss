@@ -1,25 +1,19 @@
 /* =============
     Section 1
 ============= */
-
-#section-1{
-
-    background-image: url(../img/section-1/hero.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 50vh;
-
-    @include md{
-        height: 60vh;
-    }
-
-    @include lg{
-        height: 40vh;
-    }
-
-    @include xl{
-        height: 50vh;
-    }
-
+#section-1 {
+	background-image: url(../img/section-1/hero.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 50vh;
+	@include md {
+		height: 60vh;
+	}
+	@include lg {
+		height: 40vh;
+	}
+	@include xl {
+		height: 50vh;
+	}
 }
