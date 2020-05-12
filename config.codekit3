@@ -17,13 +17,82 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
-	"/Kelsey Web 2.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/Kelsey Web 2/Assets/hunter-moranville-CMEpx6q7xrs-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 562342,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/Kelsey Web 2.zip",
-		"oF": 0
+		"oAP": "/Kelsey Web 2/Assets/hunter-moranville-CMEpx6q7xrs-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Kelsey Web 2/Assets/jakob-owens-0qLXyEKKPMM-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 1625659,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Kelsey Web 2/Assets/jakob-owens-0qLXyEKKPMM-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Kelsey Web 2/Assets/julius-drost-dS-q7-zkD9c-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 415643,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Kelsey Web 2/Assets/julius-drost-dS-q7-zkD9c-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Kelsey Web 2/Assets/kushagra-kevat---Bn3TssE60-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 1685341,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Kelsey Web 2/Assets/kushagra-kevat---Bn3TssE60-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Kelsey Web 2/Assets/markus-spiske-utS4a_yYQ_A-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 298588,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Kelsey Web 2/Assets/markus-spiske-utS4a_yYQ_A-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Kelsey Web 2/Assets/robert-shunev-mS1nlYbq1kA-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 248292,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Kelsey Web 2/Assets/robert-shunev-mS1nlYbq1kA-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Kelsey Web 2/Assets/sharegrid-7IBigEuL9Tw-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 386817,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Kelsey Web 2/Assets/sharegrid-7IBigEuL9Tw-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/Kelsey Web 2/deploy/css/styles.css": {
 		"aP": 1,
@@ -53,7 +122,7 @@
 		"oAP": "/Kelsey Web 2/deploy/img/section-1/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/Kelsey Web 2/deploy/img/section-2/left-side.jpg": {
@@ -155,6 +224,14 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/Kelsey Web 2/dev/footer.html",
+		"oF": 0
+		},
+	"/Kelsey Web 2/dev/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/Kelsey Web 2/dev/index.html",
 		"oF": 0
 		},
 	"/Kelsey Web 2/dev/index.kit": {
@@ -370,6 +447,16 @@
 		"oF": 0,
 		"oS": 0,
 		"sct": 0
+		},
+	"/Kelsey Web 2/dev/scss/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/Kelsey Web 2/dev/scss/styles-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/Kelsey Web 2/dev/scss/styles.scss": {
 		"aP": 0,
