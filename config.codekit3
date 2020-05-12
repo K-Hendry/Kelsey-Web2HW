@@ -4,163 +4,179 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "B3CDED04-0ACE-4078-8F95-1346C44403AD"
+		"uuidString": "FCF269D5-D529-4CEF-BB8B-E8EE1990A203"
 		}
 	],
 "creatorBuild": "32137",
 "files": {
-	"/deploy/css/styles.css": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
+	"/Kelsey Web 2.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/Kelsey Web 2.zip",
+		"oF": 0
+		},
+	"/Kelsey Web 2/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/deploy/css/styles-min.css",
+		"oAP": "/Kelsey Web 2/deploy/css/styles-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/deploy/img/footer/logo.svg": {
+	"/Kelsey Web 2/deploy/img/footer/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/deploy/img/footer/logo.svg",
+		"oAP": "/Kelsey Web 2/deploy/img/footer/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/deploy/img/section-1/hero.jpg": {
+	"/Kelsey Web 2/deploy/img/section-1/hero.jpg": {
 		"ft": 16384,
 		"iS": 116739,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-1/hero.jpg",
+		"oAP": "/Kelsey Web 2/deploy/img/section-1/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section-2/left-side.jpg": {
+	"/Kelsey Web 2/deploy/img/section-2/left-side.jpg": {
 		"ft": 16384,
 		"iS": 73065,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-2/left-side.jpg",
+		"oAP": "/Kelsey Web 2/deploy/img/section-2/left-side.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section-3/Step-1.jpg": {
+	"/Kelsey Web 2/deploy/img/section-3/Step-1.jpg": {
 		"ft": 16384,
 		"iS": 77147,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-3/Step-1.jpg",
+		"oAP": "/Kelsey Web 2/deploy/img/section-3/Step-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section-4/gallery-1.jpg": {
+	"/Kelsey Web 2/deploy/img/section-4/gallery-1.jpg": {
 		"ft": 16384,
 		"iS": 121615,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-4/gallery-1.jpg",
+		"oAP": "/Kelsey Web 2/deploy/img/section-4/gallery-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section-4/gallery-2.jpg": {
+	"/Kelsey Web 2/deploy/img/section-4/gallery-2.jpg": {
 		"ft": 16384,
 		"iS": 51251,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-4/gallery-2.jpg",
+		"oAP": "/Kelsey Web 2/deploy/img/section-4/gallery-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section-4/gallery-3.jpg": {
+	"/Kelsey Web 2/deploy/img/section-4/gallery-3.jpg": {
 		"ft": 16384,
 		"iS": 41051,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-4/gallery-3.jpg",
+		"oAP": "/Kelsey Web 2/deploy/img/section-4/gallery-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section-5/circle-callout.jpg": {
+	"/Kelsey Web 2/deploy/img/section-5/circle-callout.jpg": {
 		"ft": 16384,
 		"iS": 34186,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-5/circle-callout.jpg",
+		"oAP": "/Kelsey Web 2/deploy/img/section-5/circle-callout.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/index.html": {
+	"/Kelsey Web 2/deploy/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/deploy/index.html",
+		"oAP": "/Kelsey Web 2/deploy/index.html",
 		"oF": 0
 		},
-	"/deploy/js/scripts-min.js": {
+	"/Kelsey Web 2/deploy/js/scripts-min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/deploy/js/scripts-min-min.js",
+		"oAP": "/Kelsey Web 2/deploy/js/scripts-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/deploy/Untitled.code-workspace": {
+	"/Kelsey Web 2/deploy/Untitled.code-workspace": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/deploy/Untitled.code-workspace",
+		"oAP": "/Kelsey Web 2/deploy/Untitled.code-workspace",
 		"oF": 0
 		},
-	"/dev/footer.kit": {
+	"/Kelsey Web 2/dev/footer.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/dev/footer.html",
+		"oAP": "/Kelsey Web 2/dev/footer.html",
 		"oF": 0
 		},
-	"/dev/index.kit": {
+	"/Kelsey Web 2/dev/index.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/deploy/index.html",
-		"oF": 2
+		"oAP": "/Kelsey Web 2/dev/index.html",
+		"oF": 0
 		},
-	"/dev/js/scripts.js": {
+	"/Kelsey Web 2/dev/js/scripts.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/dev/js/scripts-min.js",
+		"oAP": "/Kelsey Web 2/dev/js/scripts-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/dev/scss/base/_base.scss": {
+	"/Kelsey Web 2/dev/scss/base/_base.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -168,12 +184,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/base/_base.css",
+		"oAP": "/Kelsey Web 2/dev/scss/base/_base.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/base/_normalize.scss": {
+	"/Kelsey Web 2/dev/scss/base/_normalize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -181,12 +197,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/base/_normalize.css",
+		"oAP": "/Kelsey Web 2/dev/scss/base/_normalize.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/base/_typography.scss": {
+	"/Kelsey Web 2/dev/scss/base/_typography.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -194,12 +210,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/base/_typography.css",
+		"oAP": "/Kelsey Web 2/dev/scss/base/_typography.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/components/_buttons.scss": {
+	"/Kelsey Web 2/dev/scss/components/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -207,12 +223,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/components/_buttons.css",
+		"oAP": "/Kelsey Web 2/dev/scss/components/_buttons.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/components/_forms.scss": {
+	"/Kelsey Web 2/dev/scss/components/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -220,12 +236,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/components/_forms.css",
+		"oAP": "/Kelsey Web 2/dev/scss/components/_forms.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/components/_navigation.scss": {
+	"/Kelsey Web 2/dev/scss/components/_navigation.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -233,12 +249,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/components/_navigation.css",
+		"oAP": "/Kelsey Web 2/dev/scss/components/_navigation.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/helpers/_mixins.scss": {
+	"/Kelsey Web 2/dev/scss/helpers/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -246,12 +262,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/helpers/_mixins.css",
+		"oAP": "/Kelsey Web 2/dev/scss/helpers/_mixins.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/helpers/_variables.scss": {
+	"/Kelsey Web 2/dev/scss/helpers/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -259,12 +275,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/helpers/_variables.css",
+		"oAP": "/Kelsey Web 2/dev/scss/helpers/_variables.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/layout/_footer.scss": {
+	"/Kelsey Web 2/dev/scss/layout/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -272,12 +288,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/layout/_footer.css",
+		"oAP": "/Kelsey Web 2/dev/scss/layout/_footer.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/layout/_header.scss": {
+	"/Kelsey Web 2/dev/scss/layout/_header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -285,12 +301,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/layout/_header.css",
+		"oAP": "/Kelsey Web 2/dev/scss/layout/_header.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/sections/_section-1.scss": {
+	"/Kelsey Web 2/dev/scss/sections/_section-1.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -298,12 +314,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-1.css",
+		"oAP": "/Kelsey Web 2/dev/scss/sections/_section-1.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/sections/_section-2.scss": {
+	"/Kelsey Web 2/dev/scss/sections/_section-2.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -311,12 +327,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-2.css",
+		"oAP": "/Kelsey Web 2/dev/scss/sections/_section-2.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/sections/_section-3.scss": {
+	"/Kelsey Web 2/dev/scss/sections/_section-3.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -324,12 +340,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-3.css",
+		"oAP": "/Kelsey Web 2/dev/scss/sections/_section-3.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/sections/_section-4.scss": {
+	"/Kelsey Web 2/dev/scss/sections/_section-4.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -337,12 +353,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-4.css",
+		"oAP": "/Kelsey Web 2/dev/scss/sections/_section-4.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/sections/_section-5.scss": {
+	"/Kelsey Web 2/dev/scss/sections/_section-5.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -350,12 +366,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-5.css",
+		"oAP": "/Kelsey Web 2/dev/scss/sections/_section-5.css",
 		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/scss/styles.scss": {
+	"/Kelsey Web 2/dev/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -363,49 +379,49 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/deploy/css/styles.css",
-		"oF": 2,
+		"oAP": "/Kelsey Web 2/dev/scss/styles.css",
+		"oF": 0,
 		"oS": 0,
-		"sct": 1
+		"sct": 0
 		},
-	"/dev/section-1.kit": {
+	"/Kelsey Web 2/dev/section-1.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/dev/section-1.html",
+		"oAP": "/Kelsey Web 2/dev/section-1.html",
 		"oF": 0
 		},
-	"/dev/section-2.kit": {
+	"/Kelsey Web 2/dev/section-2.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/dev/section-2.html",
+		"oAP": "/Kelsey Web 2/dev/section-2.html",
 		"oF": 0
 		},
-	"/dev/section-3.kit": {
+	"/Kelsey Web 2/dev/section-3.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/dev/section-3.html",
+		"oAP": "/Kelsey Web 2/dev/section-3.html",
 		"oF": 0
 		},
-	"/dev/section-4.kit": {
+	"/Kelsey Web 2/dev/section-4.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/dev/section-4.html",
+		"oAP": "/Kelsey Web 2/dev/section-4.html",
 		"oF": 0
 		},
-	"/dev/section-5.kit": {
+	"/Kelsey Web 2/dev/section-5.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/dev/section-5.html",
+		"oAP": "/Kelsey Web 2/dev/section-5.html",
 		"oF": 0
 		}
 	},
@@ -414,10 +430,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 608836856.50439095,
-	"displayValue": "Kelsey Web 2",
+	"creationDate": 610933174.10462797,
+	"displayValue": "Kelsey-Week3_HW",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets-forest",
+	"iconImageName": "brackets-glace",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -2438,7 +2454,7 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
-		"compilerType": 1,
+		"compilerType": 0,
 		"createSourceMap": 0,
 		"decimalPrecision": 10,
 		"emitCharset": 1,
