@@ -7,7 +7,7 @@
 		"uuidString": "FCF269D5-D529-4CEF-BB8B-E8EE1990A203"
 		}
 	],
-"creatorBuild": "32137",
+"creatorBuild": "32147",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -94,6 +94,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/Kelsey Web 2/deploy/css/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/Kelsey Web 2/deploy/css/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/Kelsey Web 2/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -101,7 +111,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/Kelsey Web 2/deploy/css/styles-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/Kelsey Web 2/deploy/img/footer/logo.svg": {
@@ -197,7 +207,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/Kelsey Web 2/deploy/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"/Kelsey Web 2/deploy/js/scripts-min.js": {
 		"bF": 0,
@@ -466,8 +476,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/Kelsey Web 2/dev/scss/styles.css",
-		"oF": 0,
+		"oAP": "/Kelsey Web 2/deploy/css/styles.css",
+		"oF": 3,
 		"oS": 0,
 		"sct": 0
 		},
