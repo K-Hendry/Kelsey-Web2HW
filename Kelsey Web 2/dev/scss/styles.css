@@ -430,21 +430,43 @@ textarea {
 /* =============
     Section 2
 ============= */
-#section-2 aside img {
-  width: 100%;
+#section-2 aside {
+  background-image: url("../img/section-2/left-side.jpg");
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+@media (min-width: 768px) {
+  #section-2 aside {
+    height: 50vh;
+    background-position: center;
+  }
+}
+@media (min-width: 992px) {
+  #section-2 aside {
+    height: 40vh;
+    background-position: center;
+  }
+}
+@media (min-width: 1200px) {
+  #section-2 aside {
+    height: 30vh;
+    background-position: center;
+    gap: 25%;
+  }
 }
 @media (min-width: 768px) {
   #section-2 {
     display: grid;
     grid-template-columns: 33% auto 0.5%;
-    grid-template-areas: "image section-2-text .";
+    grid-template-areas: "aside section-2-text .";
   }
 }
 @media (min-width: 1200px) {
   #section-2 {
     display: grid;
     grid-template-columns: 50% auto 0.5%;
-    grid-template-areas: "image section-2-text .";
+    grid-template-areas: "aside section-2-text .";
   }
 }
 
