@@ -1,0 +1,37 @@
+/* =============
+    Section 3
+============= */
+#section-3 {
+    
+    h3{
+        margin: 30px 0 30px;
+    }
+
+	aside {
+		img {
+			width: 100%;
+		}
+	}
+	#section-3-container {
+		display: grid;
+		gap: 20px;
+		grid-template-areas: ". section-3 .";
+		grid-template-columns: 5% auto 5%;
+		@include md {
+			display: grid;
+			gap: 20px;
+			grid-template-areas: ". section-3 .";
+			grid-template-columns: 15% auto 15%;
+		}
+		@include xl {
+			display: grid;
+			gap: 20px;
+			grid-template-areas: ". section-3 .";
+			grid-template-columns: 20% auto 20%;
+		}
+		#section-3-text {
+			gap: 20px;
+			grid-area: section-3;
+		}
+	}
+}

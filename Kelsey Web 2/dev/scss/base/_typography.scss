@@ -1,3 +1,29 @@
 /* =============
     Typography
 ============= */
+body{
+    font-family: 'Jost', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p,figure {
+    margin: 0px;
+    padding: 0px;
+    color: $blue;
+}
+h3{
+    font-weight: 500;
+    font-size: rem-calc(30);
+    text-align: center;
+}
+h4{
+    font-weight: 400;
+    font-size: rem-calc(16);
+    line-height: rem-calc(10);
+    text-align: center;
+}
+p{
+    font-weight: 300;
+    font-size: rem-calc(16);
+    line-height: rem-calc(30);
+    text-align: justify;
+
+}

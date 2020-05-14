@@ -1,0 +1,68 @@
+/* =============
+    Section 4
+============= */
+#section-4 {
+    
+	display: grid;
+	grid-template-areas: ". section-4 .";
+	grid-template-columns: 0px auto 0px;
+	ul {
+		display: grid;
+		gap: 20px;
+		grid-area: section-4;
+		grid-template-areas: "g1"
+            "g2"
+            "g3";
+		grid-template-rows: repeat(3, 300px);
+		@include md {
+			display: grid;
+			gap: 20px;
+			grid-area: section-4;
+			grid-template-areas: "g1 g1"
+                "g1 g1"
+                "g2 g3";
+			grid-template-columns: repeat(2, 1fr);
+			grid-template-rows: repeat(4, 300px);
+		}
+		@include xl {
+			display: grid;
+			gap: 20px;
+			grid-area: section-4;
+			grid-template-areas: "g1 g1 g2"
+                "g1 g1 g3";
+			grid-template-columns: repeat(3, 1fr);
+			grid-template-rows: repeat(2, 300px);
+		}
+		li {
+			background-position: center;
+			background-size: cover;
+		}
+		#g1 {
+			background-image: ("../img/section-4/gallery-1.jpg");
+			@include md {
+				grid-area: g1;
+			}
+			@include xl {
+				grid-area: g1;
+			}
+		}
+		#g2 {
+			background-image: ("../img/section-4/gallery-2.jpg");
+			@include md {
+				grid-area: g2;
+			}
+			@include xl {
+				grid-area: g2;
+			}
+		}
+		#g3 {
+			background-image: ("../img/section-4/gallery-3.jpg");
+			@include md {
+				grid-area: g3;
+			}
+			@include xl {
+				grid-area: g3;
+			}
+		}
+	}
+}

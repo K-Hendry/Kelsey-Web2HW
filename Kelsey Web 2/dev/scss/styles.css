@@ -395,34 +395,10 @@ ul li {
 /* =============
     Typography
 ============= */
-body {
-  font-family: "Jost", sans-serif;
-}
-
 h1, h2, h3, h4, h5, h6, p, figure {
   margin: 0px;
   padding: 0px;
   color: #202B31;
-}
-
-h3 {
-  font-weight: 500;
-  font-size: 1.875rem;
-  text-align: center;
-}
-
-h4 {
-  font-weight: 400;
-  font-size: 1rem;
-  line-height: 0.625rem;
-  text-align: center;
-}
-
-p {
-  font-weight: 300;
-  font-size: 1rem;
-  line-height: 1.875rem;
-  text-align: justify;
 }
 
 /* =============
@@ -474,8 +450,6 @@ textarea {
   background-repeat: no-repeat;
   background-size: cover;
   height: 50vh;
-  max-width: 500px;
-  margin-bottom: 50px;
 }
 @media (min-width: 768px) {
   #section-1 {
