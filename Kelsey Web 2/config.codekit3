@@ -7,8 +7,95 @@
 		"uuidString": "B3CDED04-0ACE-4078-8F95-1346C44403AD"
 		}
 	],
-"creatorBuild": "32137",
+"creatorBuild": "32147",
 "files": {
+	"/Assets/hunter-moranville-CMEpx6q7xrs-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 562342,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/hunter-moranville-CMEpx6q7xrs-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/jakob-owens-0qLXyEKKPMM-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 1625659,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/jakob-owens-0qLXyEKKPMM-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/julius-drost-dS-q7-zkD9c-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 415643,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/julius-drost-dS-q7-zkD9c-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/kushagra-kevat---Bn3TssE60-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 1685341,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/kushagra-kevat---Bn3TssE60-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/markus-spiske-utS4a_yYQ_A-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 170349,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/markus-spiske-utS4a_yYQ_A-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/robert-shunev-mS1nlYbq1kA-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 248292,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/robert-shunev-mS1nlYbq1kA-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Assets/sharegrid-7IBigEuL9Tw-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 386817,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Assets/sharegrid-7IBigEuL9Tw-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/css/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/deploy/css/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -139,6 +226,14 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/dev/footer.html",
+		"oF": 0
+		},
+	"/dev/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dev/index.html",
 		"oF": 0
 		},
 	"/dev/index.kit": {
@@ -354,6 +449,26 @@
 		"oF": 0,
 		"oS": 0,
 		"sct": 1
+		},
+	"/dev/scss/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/dev/scss/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/dev/scss/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/dev/scss/styles-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/dev/scss/styles.scss": {
 		"aP": 0,
@@ -2438,7 +2553,7 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
-		"compilerType": 1,
+		"compilerType": 0,
 		"createSourceMap": 0,
 		"decimalPrecision": 10,
 		"emitCharset": 1,
