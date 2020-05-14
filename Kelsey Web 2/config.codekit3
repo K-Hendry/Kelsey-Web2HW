@@ -2553,7 +2553,7 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
-		"compilerType": 1,
+		"compilerType": 0,
 		"createSourceMap": 0,
 		"decimalPrecision": 10,
 		"emitCharset": 1,
